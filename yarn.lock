@@ -68,6 +68,10 @@ object-extended@0.0.7:
     extended "~0.0.3"
     is-extended "~0.0.3"
 
+prettier@^1.11.1:
+  version "1.11.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.11.1.tgz#61e43fc4cd44e68f2b0dfc2c38cd4bb0fccdcc75"
+
 string-extended@0.0.8:
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/string-extended/-/string-extended-0.0.8.tgz#741957dff487b0272a79eec5a44f239ee6f17ccd"
