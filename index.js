@@ -19,6 +19,7 @@ function loadDatas() {
         i++;
       })
       .on("end", function() {
+        parsedDatas.shift();
         resolve(parsedDatas);
       })
       .on("error", function(err) {
