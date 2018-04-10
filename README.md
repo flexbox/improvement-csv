@@ -9,6 +9,7 @@ node index.js
 Export the results
 ```
 node index.js > results.json
+node index.js | gron | gron --ungron > result.json
 ```
 
 ### Dependencies

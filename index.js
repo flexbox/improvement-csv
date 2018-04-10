@@ -51,5 +51,5 @@ loadDatas().then(function(parsedDatas) {
     .map((rows, key) => ({ key: key, value: _.meanBy(rows, "improvement") }))
     .value();
 
-  console.log(averageImprovementGlobal);
+  console.log(JSON.stringify(averageImprovementGlobal));
 });

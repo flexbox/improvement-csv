@@ -1,0 +1,86 @@
+[
+  {
+    "key": "area|attribute",
+    "value": null
+  },
+  {
+    "key": "technology|forward_thinking",
+    "value": -2.125
+  },
+  {
+    "key": "self|organisation",
+    "value": 7
+  },
+  {
+    "key": "approach|ethical_practice",
+    "value": 11.4
+  },
+  {
+    "key": "self|resilience",
+    "value": 5.1
+  },
+  {
+    "key": "communication|verbal_communications",
+    "value": 1.7777777777777777
+  },
+  {
+    "key": "approach|diligence",
+    "value": 1.9
+  },
+  {
+    "key": "self|always_learning",
+    "value": 3
+  },
+  {
+    "key": "communication|empathy",
+    "value": 4.888888888888889
+  },
+  {
+    "key": "self|metacognition",
+    "value": -1.8888888888888888
+  },
+  {
+    "key": "technology|tooling",
+    "value": 3.7
+  },
+  {
+    "key": "communication|visual_communications",
+    "value": 0.1111111111111111
+  },
+  {
+    "key": "approach|solution_finding",
+    "value": 4.1
+  },
+  {
+    "key": "communication|written_communications",
+    "value": -0.5
+  },
+  {
+    "key": "self|self_leadership",
+    "value": 10.5
+  },
+  {
+    "key": "approach|imagination",
+    "value": 1.7
+  },
+  {
+    "key": "communication|collaborative_working",
+    "value": 0.375
+  },
+  {
+    "key": "technology|automation",
+    "value": -0.6
+  },
+  {
+    "key": "approach|critical_thinking",
+    "value": 0.7
+  },
+  {
+    "key": "technology|data",
+    "value": 1.4
+  },
+  {
+    "key": "technology|online_health",
+    "value": -9.428571428571429
+  }
+]
